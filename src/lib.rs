@@ -1,4 +1,4 @@
-mod hashpool;
+pub mod hashpool;
 #[cfg(test)]
 mod test;
 
